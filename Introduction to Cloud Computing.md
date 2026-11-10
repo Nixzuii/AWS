@@ -17,3 +17,10 @@ At first, AWS was mostly used by startups and individual developers. Its scalabi
 To see why this matters, consider what any application needs: somewhere to run, store content, and analyze data. All of this lives in a data center, a building (or group of buildings) full of servers, built with backup power, cooling, and security to keep things running safely around the clock.
 
 Before AWS, businesses had only two options: run their own data centers or rent space in a shared facility. With AWS, companies can run applications in data centers they don’t own or manage. That means less time spent on repetitive maintenance and more time spent on innovation.
+
+## Cloud deployment types
+
+We can an deploy cloud resources in multiple ways: cloud, on-premises, and hybrid. Each type offers unique benefits and considerations, and exploring these options can help us make informed decisions about our cloud strategy.
+
+- **Cloud Based Deployment**: In a cloud-based deployment model, we have the flexibility to migrate our existing resources to the cloud, design and build new applications within the cloud environment, or use a combination of both. For instance, a company might migrate data resources to the cloud, then develop an application comprised of virtual servers, databases, and networking components entirely hosted in the cloud.
+- **On-premises**: Deploying resources on premises using virtualization and resource management tools does not provide many of the benefits of cloud computing. However, it is sometimes sought for its ability to provide dedicated resources and low latency. In most cases this deployment model is the same as legacy IT infrastructure while using application management and virtualization technologies to try increasing resource utilization.
