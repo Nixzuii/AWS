@@ -1,0 +1,3 @@
+# History of AWS
+
+In the early 2000's Amazon was an eCommerce site that customers used to buy books and other consumer goods. As more people started to use this site the amazon IT team had to continuously make update to keep things running smoothly by adding more servers. more storage, more compute. The team decided to develop standardized tools, mechanisms and ways to make things more efficient and scalable. These methods proved to be quite effective and in 2003 employees thought "maybe this knowledge would be valuable to other companies facing similar challenges". Thus, Amazon started to envision a service that would allow businesses to rent computing power, storage, and other resources on demand.
