@@ -8,6 +8,8 @@ At first, AWS was mostly used by startups and individual developers. Its scalabi
 
 **Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing.**
 
+<img width="1680" height="775" alt="image" src="https://github.com/user-attachments/assets/5c3f0256-a42f-4a90-a006-865e2a4152c2" />
+
 - **On demand** means you use only what you need. For example, if your business needs 2,000 TB of storage, you can create an AWS account, upload your files to Amazon S3, and get started. When you no longer need those files, delete them and stop paying right away.
 - **Over the internet** means you can reach your resources from anywhere, whether at home, at the office, or traveling. All you need is an internet connection and a web browser to log in and manage your infrastructure.
 - **Pay-as-you-go** means that if you no longer need part of your setup, you can shut it down and stop paying for it.
